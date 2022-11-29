@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kennyan11b
-- 👀 I’m interested in Cooking, Mountain Biking, Backpacking and anything related to the outdoors. 
+- 👀 I’m interested in Cooking, Mountain Biking, Backpacking & anything related to the outdoors. 
 - 🌱 I’m currently learning Java/JavaScript
 - 💞️ I’m looking to collaborate on here...where else?
 - 📫 How to reach me: On here :)
