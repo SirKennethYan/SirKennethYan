@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kenny</h1>
-<h3 align="center">California native who recently graduated from Skill Distillery's full-stack development program. Through this program, I immersed myself in a variety of front-end technologies such as JavaScript, HTML/CSS, and Angular, as well as back-end technologies like Java, Spring, and SQL. My goal was to build a strong foundation of skills and knowledge that would enable me to succeed as a developer and contribute to the field of software engineering. Now, as a graduate, I am eager to apply my skills in real-world projects and continue growing professionally. When I'm not coding, I enjoy spending time outdoors, either on a challenging mountain bike trail or camping in one of the state's many beautiful natural areas. These activities help me stay grounded and centered, and they provide an excellent opportunity to clear my mind and recharge my creative batteries. Thank you for taking the time to read a bit about my background and interests. I'm excited to continue my journey as a developer and see where my skills take me.</h3>
+<h3 align="center">California native creating Revit add-ins to streamline design workflows and extend the capabilities of Autodesk Revit. My focus is on building tools that automate repetitive tasks, improve coordination, and unlock new ways of working with BIM data.
+This repository is a record of my progress in Revit add-in development and a place to share tools that may benefit other designers and developers.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
