@@ -1,7 +1,16 @@
 <h1 align="center">Hey 👋, I'm Kenny</h1>
-<h3 align="center">California native creating Revit add-ins to streamline design workflows and extend the capabilities of Autodesk Revit. My focus is on building tools that automate repetitive tasks, improve coordination, and unlock new ways of working with BIM data.</h3>
+
+<h3 align="center">
+California native creating Revit add-ins to streamline design workflows and extend the capabilities of Autodesk Revit.  
+My focus is on building tools that automate repetitive tasks, improve coordination, and unlock new ways of working with BIM data.
+</h3>
+
 ---
-<h3 align="center">This repository is a record of my progress in Revit add-in development and a place to share tools that may benefit other designers and developers.</h3>
+
+<h3 align="center">
+This repository is a record of my progress in Revit add-in development and a place to share tools that may benefit other designers and developers.
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
